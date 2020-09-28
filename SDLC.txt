@@ -1,0 +1,26 @@
+
+Snapdeal
+______________________________________________________________________________
+user 1 :as a <user> i want to <search product in search box by the product name> so that<i'll get list of products which i want>
+________
+task 1 :add products in database
+task 2 :write a fuction to search fuction
+task 3 :create a search box in frontend
+________________________________________________________________________________
+
+user 1 :as a <user> i want to <click on login> so that<i'll get list of recomandation products based upon my past orders >
+________
+task 1 :add products into database
+task 2 :write a recomandation fuction using some algorithms(collaborative filtering,KNN,Pearson Correlation)
+task 3 :In frontend create a container on the top of the page to display recomanded products for user when user login.
+______________________________________________________________________________
+
+user 1 :as a <user> i want to <click on Cart icon > so that<I'll get list of products which i added to Cart to delivery >
+user 1 :as a <> i want to <> so that<>
+user 1 :as a <> i want to <> so that<>
+user 1 :as a <> i want to <> so that<>
+user 1 :as a <> i want to <> so that<>
+user 1 :as a <> i want to <> so that<>
+user 1 :as a <> i want to <> so that<>
+user 1 :as a <> i want to <> so that<>
+user 1 :as a <> i want to <> so that<>
