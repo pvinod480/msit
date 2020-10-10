@@ -26,14 +26,13 @@ for sheet in  wb.sheetnames:
     new_sheet1=new_wb.create_sheet(sheet)
     new_sheet2=new_wb1.create_sheet(sheet)
     
-    count1= 1 ; count2=1
     
     for l in strike_rates:
         if l < sdv:
-            new_sheet1.cell(row=count1, column=1).value=l
+            new_sheet1.cell(row=1, column=1).value=l
             count1+=1
         else:
-            new_sheet2.cell(row=count2, column=1).value=l
+            new_sheet2.cell(row=1 column=1).value=l
             count2+=1
             
 new_wb.save("AboveSTD.xlsx")

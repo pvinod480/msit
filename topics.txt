@@ -1,0 +1,49 @@
+Basics of Python:
+1.Variables
+2.data types
+3.strings
+4.booleans
+5.operators
+6.list
+7.tuples
+8.dictionary
+9.if..Else
+10.While and for loops
+11.Fuctions
+12.Lambda
+13.classes
+14.Inhertance
+15.Try..Expect
+16.User Input
+17.String formating
+18.Slicing
+19.list comprahension
+
+Python casestudy:
+
+1.Circket data set
+   a.open data from text file
+   b.Spliting data and used in logics
+   c.coverting text file into excel file.
+   d.Pushing text data into the excel file by opening workbook and creating sheets
+   e.finding strake rate
+   f.finding standard diveation for all players by importing statistics module.
+   e.finding most consistence player among circket data
+
+2.Election data set
+   a.open data from text file
+   b.Spliting data and used in logics
+   c.coverting text file into excel file.
+   d.Pushing text data into the excel file by opeing workbook and creating sheets
+   e.find among election data how many parties won in a purticular year
+   f.find margin
+   g.Find how many female cadidates participated and how many are winners
+3.Creating Exception class
+4.Circket and Election logics using functions
+5.infix to Postfix
+6.Inhertance classes
+7.poem casestudy
+8.Developing a server
+9.Parser
+10.Serparating Cicket deviation above and below
+11.modules
