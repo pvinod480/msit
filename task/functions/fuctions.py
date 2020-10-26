@@ -2,7 +2,7 @@ class Players:
     
     def __init__(self):
         self.players = {}
-        try:
+        
             fobj=open("player.txt",'r')
             for  line in fobj:
                 sp=line.split()
@@ -12,7 +12,7 @@ class Players:
                     self.addElement(name,player)
         except:
                 pass
-
+        
     def addElement(self,name,player):
         if name in self.players:
             if player not in self.players[name]:
@@ -75,5 +75,5 @@ p1.addElement("akhil","vinnu")
 
 p1.mostpopular()
 p1.save()
-#p1.show()
+p1.show()
 

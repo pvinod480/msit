@@ -1,11 +1,5 @@
-import os
-g=os.walk(os.getcwd())
-for dir_path,directory_name,file_names in g:
-    for filename in file_names:
-        if filename.endswith(".py"):
-            print(os.path.join(dir_path,filename))
-
-for py_file in python_files:
-    print(py_file)
-            
-
+li=[1,2,3,4]
+for x in li:
+    s=str(x)
+    r=[s,end=","]
+    print(r)
